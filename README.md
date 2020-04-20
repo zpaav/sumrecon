@@ -20,6 +20,6 @@ git clone into / directory.
 * waybackurls - https://github.com/tomnomnom/waybackurls
 * whatweb - https://github.com/urbanadventurer/WhatWeb
 * nmap - https://nmap.org/download.html
-* subjack - github.com/haccer/subjack
+* subjack - https://github.com/haccer/subjack
 * jq - https://stedolan.github.io/jq/
-* gowitness - github.com/sensepost/gowitness
+* gowitness - https://github.com/sensepost/gowitness
